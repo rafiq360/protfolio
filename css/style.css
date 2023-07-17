@@ -1,0 +1,78 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+/* this is section area css */
+.banner-container {
+  background-color: #cacaca;
+}
+.banner-column {
+  background-color: #8d8d8d;
+}
+
+/* this is navbar area css */
+section nav div ul li a {
+  text-transform: uppercase;
+}
+.navbar-container {
+  background-color: #262b37;
+}
+.navbar-area{position: sticky;
+top: 0;
+z-index: 2;}
+/* this is about area css */
+.about-container {
+  background-color: #00bdbd;
+}
+
+/* this is education area css */
+
+.tex-colour {
+  color: #fb8580;
+}
+.circle1 {
+  background-color: #fb8580;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.card-body {
+  background-color: #00bdbd;
+  color: white;
+}
+
+/* this is project area css */
+.project-container {
+  background-color: #00bdbd;
+}
+.project-img {
+  border-radius: 5%;
+}
+.project-a {
+  text-decoration: none;
+}
+
+/* this is protfolio area css  */
+
+/* this is gallery area css */
+
+/* this is contact area css */
+.contact-container {
+  background-color: #434859;
+}
+.innar-form {
+  background-color: #616570;
+}
+.button-color {
+  background-color: #fb8580;
+}
+.button-color:hover {
+  background-color: #fb8580;
+  color: black !important;
+}
+
+/* this is a footer area css */
+.footer-area {
+  background-color: #262b37;
+}
